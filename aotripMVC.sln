@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aotripMVC", "aotripMVC\aotripMVC.csproj", "{879DF3BB-474F-42C4-B962-2B531D1BB70E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aotripMVC.Tests", "aotripMVC.Tests\aotripMVC.Tests.csproj", "{C36B0603-D122-44C1-9CD2-DE701B7FC1E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{879DF3BB-474F-42C4-B962-2B531D1BB70E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879DF3BB-474F-42C4-B962-2B531D1BB70E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879DF3BB-474F-42C4-B962-2B531D1BB70E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879DF3BB-474F-42C4-B962-2B531D1BB70E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C36B0603-D122-44C1-9CD2-DE701B7FC1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36B0603-D122-44C1-9CD2-DE701B7FC1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36B0603-D122-44C1-9CD2-DE701B7FC1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36B0603-D122-44C1-9CD2-DE701B7FC1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
